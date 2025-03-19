@@ -1,0 +1,21 @@
+{
+  "tag": [ "Technology", "Tutorials", "Announcements"],
+  "list": [
+    {
+      "title": "Autonomous systems will make decisions, hold assets, interact with the world.",
+      "desc": "At LazAI, we're building iDAO-governed system so autonomy doesn't mean chaos, it means control by the many.",
+      "tag": "Technology",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/1.jpg",
+      "time": "2025/03/18 11:10",
+      "link": "lazai-desc.md"
+    },
+    {
+      "title": "Autonomous systems will make decisions, hold assets, interact with the world.",
+      "desc": "At LazAI2, we're building iDAO-governed system so autonomy doesn't mean chaos, it means control by the many.",
+      "tag": "Video",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/2.jpg",
+      "time": "2025/03/19 12:00",
+      "link": "lazai-desc2.md"
+    }
+  ]
+}
