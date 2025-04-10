@@ -1,5 +1,3 @@
-# LazAI: Building a Human-Aligned AI Infrastructure
-
 ## AI is Built on a Broken Foundation
 
 Artificial Intelligence is reshaping the world, influencing how decisions are made, how information is processed, and how value is created across nearly every industry. From healthcare to finance, AI is powering groundbreaking innovations, making our lives more efficient and interconnected. But beneath this technological progress lies a critical structural flaw: **AI is being built on a broken foundation.**
