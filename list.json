@@ -2,12 +2,12 @@
   "tag": [ "Technology", "Tutorials", "Announcements", "Explainer"],
   "list": [
     {
-      "title": "When Lies Become Data: The Deadly Impact of Misinformation in Healthcare",
-      "desc": "In the late 1990s, a new painkiller hit the U.S. market. Its name? OxyContin. Marketed as a safe, low-risk opioid, it was heralded as a breakthrough treatment for chronic pain",
+      "title": "LazAI: Building a Human-Aligned AI Infrastructure",
+      "desc": "In a world where AI has the potential to shape every facet of life, LazAI envisions a future where every individual can share in the value AI creates",
       "tag": "Explainer",
-      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/4.jpg",
-      "time": "2025/03/19 12:00",
-      "link": "healthcare-disaster.md"
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/Intro banner.jpg",
+      "time": "2025/04/10 12:00",
+      "link": "LazAI-intro.md"
     }
   ]
 }
