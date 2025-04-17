@@ -85,11 +85,11 @@ Alith uses:
 - Model quantization  
 - Graph computation  
 
-It supports **just-in-time (JIT)** and **ahead-of-time (AOT)** compilation across CPUs, GPUs, and TPUs — enabling real-time, low-latency inference for complex tasks. No more waiting minutes for outputs.  
+It supports just-in-time (JIT) and ahead-of-time (AOT)*compilation across CPUs, GPUs, and TPUs — enabling real-time, low-latency inference for complex tasks. No more waiting minutes for outputs.  
 
 ### Web3 & AI Native  
 Alith was built to plug directly into the decentralized stack. It integrates with wallets, oracles, on-chain protocols, and other Web3 infrastructure. And with full compatibility for Langchain, Eliza, and Model Context Protocol (MCP), you can extend your agents across ecosystems - without vendor lock-in.
-> **MCP** allows AI agents to access plugins and data sources from other AI environments — breaking down silos and enabling truly universal intelligence.
+> Model Context Protocol MCP allows AI agents to access plugins and data sources from other AI environments — breaking down silos and enabling truly universal intelligence.
 
 ### Collaborative Autonomy  
 Alith enables agent-to-agent communication. Your agent can call others, collaborate, negotiate, and complete multi-step workflows autonomously.
