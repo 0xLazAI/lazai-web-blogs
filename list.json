@@ -16,6 +16,14 @@
       "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/2.6.jpg",
       "time": "2025/04/14 15:00",
       "link": "iDAO-intro.md"
+    }, 
+     {
+      "title": "Alith: The Framework Powering the Future of Autonomous AI",
+      "desc": "In the last two years, dozens of AI agent frameworks have emerged. But few deliver true autonomy. Why?",
+      "tag": "Explainer",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/Alith.png",
+      "time": "2025/04/17 15:00",
+      "link": "Alith-intro.md"
     }
   ]
 }
