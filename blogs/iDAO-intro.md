@@ -57,23 +57,23 @@ iDAOs prioritize the individual: their value, their will, their data, their mode
 
 An iDAO gives you full control over your AI assets by enabling:
 
-- **Ownership** of a dataset, model, or agent — governed directly by the individual entity who creates or contributes it  
-- A **Data Anchoring Token (DAT)** to prove provenance, define usage permissions, and enforce access policies  
-- **Usage-based reward flows** — as your asset is used in AI pipelines, your iDAO receives protocol rewards  
-- **Decentralized validation through Quorums**, ensuring all contributions are verified, tamper-proof, and fraud-resistant  
+- Ownership of a dataset, model, or agent — governed directly by the individual entity who creates or contributes it  
+- A Data Anchoring Token (DAT) to prove provenance, define usage permissions, and enforce access policies  
+- Usage-based reward flows — as your asset is used in AI pipelines, your iDAO receives protocol rewards  
+- Decentralized validation through Quorums, ensuring all contributions are verified, tamper-proof, and fraud-resistant  
 
-In other words, iDAOs give individuals programmable ownership over the AI assets they create, control, or contribute to — and ensure those assets are **trusted**, **rewarded**, and **protected**.
+In other words, iDAOs give individuals programmable ownership over the AI assets they create, control, or contribute to — and ensure those assets are trusted, rewarded, and protected.
 
 ### iDAOs are:
 
-- ✅ **Decentralized individuals & entities** that decide what data gets used  
-- ✅ **Validators of truth**, ensuring that data is clean, unbiased, and reliable  
-- ✅ **Gatekeepers of AI models**, voting on how these models learn and improve  
-- ✅ **Guardians of human-aligned AI**, preventing manipulation and bias at scale  
+- ✅ Decentralized individuals & entities that decide what data gets used  
+- ✅ Validators of truth, ensuring that data is clean, unbiased, and reliable  
+- ✅ Gatekeepers of AI models, voting on how these models learn and improve  
+- ✅ Guardians of human-aligned AI, preventing manipulation and bias at scale  
 
 ## How iDAOs Work in the LazAI Ecosystem
 
-Each iDAO establishes explicit trust relationships with one or more **Quorums** — dedicated validator groups within the LazAI consensus layer.
+Each iDAO establishes explicit trust relationships with one or more Quorums — dedicated validator groups within the LazAI consensus layer.
 
 These Quorums are responsible for:
 
@@ -100,7 +100,7 @@ They are economically bonded validation networks with slashing and fraud detecti
 - **AI compute credits**: Subsidized resources to build and run intelligent agents  
 
 Because everything is validated by **Quorums** and transparently logged on-chain, **no single actor can hijack the process**.  
-It’s **trustless**, **auditable**, and **secure**.
+It’s trustless, auditable, and secure.
 
 ## The Future of AI Governance
 
@@ -110,7 +110,7 @@ With iDAOs, AI becomes collective intelligence, shaped by those who contribute t
 
 **And the flywheel begins:**
 
-> **Better data → Better models → Higher adoption → More rewards → More contributors → Even better data → Even more rewards**
+    Better data → Better models → Higher adoption → More rewards → More contributors → Even better data → Even more rewards
 
 It’s a self-reinforcing loop where value flows back to the people who make AI better.
 
@@ -119,10 +119,15 @@ But more importantly:
 **iDAOs put human intention at the center of AI.**  
 They ensure AI doesn’t just serve the few — it serves **all of us**.
 
-The World We’re Building: AI That Aligns With Us
+### The World We’re Building: AI That Aligns With Us
 
 We’ve lived through an era where:
 
 - AI was built behind closed doors  
 - Trained on invisible data  
-- Governed by incentives we didn’t understand 
+- Governed by incentives we didn’t understand
+
+This is why iDAOs matter. They are more than governance. They are the foundation of a better AI future.
+
+Welcome to LazAI. Built for all of us.
+
