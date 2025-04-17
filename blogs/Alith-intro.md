@@ -1,4 +1,4 @@
-### From Bots to Agents… The Infrastructural Glow-Up AI Has Been Waiting For
+### From Bots to Agents - The Infrastructural Glow-Up AI Has Been Waiting For
 
 We’ve come a long way from clunky chatbots and hardcoded assistants to agents that work for you. But despite the hype, today’s AI agents still fall short of what they promise.
 
@@ -34,13 +34,13 @@ It enables access to:
 
 ## What Makes Alith Different?
 
-### 🛡️ Decentralized by Design  
+### Decentralized by Design  
 Alith is not controlled by any single entity. Agent logic, data provenance, and inference trails are all anchored on-chain — enabling fair attribution, rewards, and governance.
 
-### 🔧 Composability  
+### Composability  
 Alith supports plug-ins into the decentralized stack, on-chain protocols, AI agent frameworks, and Model Context Protocol (MCP), enabling agents to collaborate, scale, and evolve across apps and chains.
 
-### 🧠 Ownable Agents  
+### Ownable Agents  
 Agents are not just tools. In Alith, they are programmable, ownable, and monetizable entities.  
 Through LazAI’s iDAO and DAT standards, agents gain identity, accountability, and rewards.
 
@@ -72,13 +72,13 @@ Whether you're orchestrating multi-agent workflows, deploying context-aware assi
 
 ## Alith’s Key Features
 
-### 🔐 Privacy-Preserving by Design  
+### Privacy-Preserving by Design  
 Powered by LazAI’s blockchain network, every interaction and data flow is cryptographically secured.  
 Alith supports **zero-knowledge reasoning**, ensuring your AI agents don’t need to expose your private data to deliver results.  
 
 **Data sovereignty isn’t a feature in Alith. It’s the foundation.**
 
-### ⚡ High-Performance Reasoning  
+### High-Performance Reasoning  
 Alith uses:
 
 - Rust-based performance optimization  
@@ -87,11 +87,11 @@ Alith uses:
 
 It supports **just-in-time (JIT)** and **ahead-of-time (AOT)** compilation across CPUs, GPUs, and TPUs — enabling real-time, low-latency inference for complex tasks. No more waiting minutes for outputs.  
 
-### 🌐 Web3 & AI Native  
+### Web3 & AI Native  
 Alith was built to plug directly into the decentralized stack. It integrates with wallets, oracles, on-chain protocols, and other Web3 infrastructure. And with full compatibility for Langchain, Eliza, and Model Context Protocol (MCP), you can extend your agents across ecosystems - without vendor lock-in.
 > **MCP** allows AI agents to access plugins and data sources from other AI environments — breaking down silos and enabling truly universal intelligence.
 
-### 🤝 Collaborative Autonomy  
+### Collaborative Autonomy  
 Alith enables agent-to-agent communication. Your agent can call others, collaborate, negotiate, and complete multi-step workflows autonomously.
 Agents become economic actors - trading compute, data, and actions in real-time. You’re not just running models. You’re deploying digital entities.
 It’s where AI and Web3 converge. And it’s already live.
@@ -105,4 +105,4 @@ Developers can build with trust and modularity
 AI becomes transparent, ethical, and user-aligned
 It’s not just another framework. It’s the foundation for the agent economy.
 
-## 🚀 Alith Is Live. Build the Future Now. 
+**Alith Is Live. Build the Future Now.**
