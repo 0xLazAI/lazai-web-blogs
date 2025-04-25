@@ -1,5 +1,3 @@
-> In DeFi, we tokenize money. In LazAI, we tokenize intelligence. DAT (Data Anchoring Token), as a new token standard, identifies and prices data, transforming it into traceable, verifiable, and composable AI assets.
-
 ## Why Static Data Fails in AI Systems
 
 AI systems rely on data but the way we treat data today is fundamentally broken. Data is static, opaque, and disconnected from its origins. Once uploaded or scraped, it becomes a black-box input into black-box models. What happens next is often guesswork: AI systems hallucinate, amplify bias, and lack accountability.
