@@ -1,133 +1,131 @@
-For the last decade, we’ve been promised AI would change everything for the better. In some ways, it has. AI models recommend our next binge-watch, answer customer queries faster, and help spot diseases before they progress. 
+For the last decade, we’ve been promised AI would change everything for the better. In some ways, it has. AI models recommend our next binge-watch, answer customer queries faster, and help spot diseases before they progress.  
+But beneath these innovations lies a harder truth: **the data that trains these AI systems often works against us**.
 
-But beneath these innovations lies a harder truth: **the data that trains these AI systems often works against us.**
+As AI systems become more powerful, the question of **who controls them, how they are trained, and whose values they reflect** has never been more urgent. Yet the dominant models of control in today’s AI are failing.  
+A handful of corporations own and govern the data pipelines, model training processes, and feedback loops. These systems cater to the majority perspective, **not because it is inherently better, but because it is easier to scale, monetize, and control**. In the process, **individual will is erased**.
 
-We — as users, developers, even institutions — feed data into the machine every single day. Yet we get nothing in return. Worse, we have no say in how that data is used, whether it's accurate, or if it aligns with our interests. Instead, a handful of corporations decide what data AI learns from, how it learns, and who benefits.
+We as users, developers, even institutions **feed data into the machine every single day**. Yet we get nothing in return. Worse, we have no say in how that data is used, whether it's accurate, or if it aligns with our interests.
 
-And the cost of this system is growing: **misinformation, bias, hallucinations — and in some cases, decisions that have cost people their lives.**
+In the AI ecosystem, even **DAOs fall short**.  
+That’s because traditional DAOs are designed around **organizational governance**, not **individual agency**. Their structure is optimized for voting, treasury control, and roadmap coordination — not for aligning thousands of diverse data contributors, model builders, or AI agents with varying intents and perspectives.
 
-Here’s the uncomfortable reality:
+## The Problem with Traditional DAOs in the Age of AI
 
-- AI doesn’t think. It learns from data — **our data**.  
-- You don’t own that data, even though it came from **you**.  
-- You have no control over how it’s used, even if the consequences impact **you**.  
-- And when things go wrong, there’s no one to hold accountable.
+- **DAOs are still organization-focused.**  
+  They are built for group-level coordination: protocols, treasuries, or ecosystem roadmaps. While decentralized in name, DAOs often reduce diverse contributors into a single collective voice — where individual intentions and perspectives are minimized.
 
-**So we asked ourselves: what would it take to make AI truly human-aligned?** The answer wasn’t just more regulation or better algorithms. We needed to rethink the governance of data itself.
+- **Power hierarchical structures persist.**  
+  Despite decentralization, hierarchies remain. Delegated voting, token-weighted governance, and centralized tooling often reinforce existing power asymmetries.
 
-And that’s why **iDAO** was built.
+- **They don’t capture the personal context AI needs.**  
+  AI doesn’t just need democratic governance; it needs contextual governance. It must learn from real, grounded, personal data. Not the average. Not the abstract. Not the aggregate.
 
-### Fixing the Broken Data Economy
+## The Future of AI Demands a Different Trajectory
 
-In Web2, **you are the product**. Your data powers billion-dollar AI models, but you aren’t part of the equation. You have no say in how your data is used or who profits from it. Worse, the data being fed to AI is often incomplete, biased, or outright manipulated. When that happens, AI systems make wrong decisions because they were trained on the wrong foundations.
+The AI narrative has long been dominated by **large, generalized models** trained on vast internet-scale datasets.  
+While these systems are powerful, they are also **brittle and misaligned**, struggling to adapt to niche domains, specialized tasks, or the nuanced needs of individuals.
 
-This isn’t just about ad targeting. This is about:
+This paradigm is now shifting.
 
-- Flawed AI healthcare recommendations  
-- Predictive policing tools trained on biased datasets  
-- Misinformation spreading because algorithms *think* it’s true
+The next era of AI will not be defined by how *big* or *generalized* a model is. Instead, it will be defined by how **useful**, **personalized**, and **aligned** it is — how well it serves specific domains, individuals, and diverse perspectives. The focus is moving bottom-up: from building ever-larger models to building **smaller, highly specialized models** trained on **high-quality, human-aligned, domain-specific data**.
 
-**So what’s the core issue?**
-  
-  ❌ **No data provenance** — we can’t verify where the data came from  
-  ❌ **No governance** — the people impacted have no control over AI’s learning process  
-  ❌ **No accountability** — AI failures are blamed on the black box  
+But acquiring this kind of data isn’t as simple as scraping the web. It requires **active, intentional contributions** from individuals, domain experts, and communities.
 
-This led us to a simple but radical idea:  
-> **If you want AI to serve humans, then humans & individuals should govern the data that AI learns from.**
+This led us to a simple but radical idea:
 
-**iDAOs make that possible.**
+> **If you want AI to serve humans, then humans — as individuals — must govern the data that AI learns from.**
 
-## Introducing iDAO – The Individual-Centric DAO
+And that is why **Individual-centric DAOs (iDAOs)** was built.
 
-![iDAO blog](https://github.com/user-attachments/assets/eaf4c804-7964-4a58-8e6a-d7734523f90c)
+# Introducing iDAO — The Individual-Centric DAO
 
-**iDAO** stands for **Individual-Centric DAO**, meaning the power to govern AI starts with the individual.
+**iDAO** stands for **Individual-Centric DAO**, meaning the power to govern AI starts with the individual.  
+iDAO is the native social structure of the AI economy — a decentralized space where humans and AI agents co-create, co-govern, and co-monetize aligned intelligence.
 
-It combines:
-- Asset ownership  
-- Decentralized validation  
-- Programmable reward flow  
+**iDAOs prioritize the individual**: their value, their will, their data, their models.
 
-Turning AI assets into **verifiable**, **ownable**, and **revenue-generating** primitives.
-
-iDAOs prioritize the individual: their value, their will, their data, their models.
-
-### How does it work?
+## How does it work?
 
 An iDAO gives you full control over your AI assets by enabling:
 
-- Ownership of a dataset, model, or agent — governed directly by the individual entity who creates or contributes it  
-- A Data Anchoring Token (DAT) to prove provenance, define usage permissions, and enforce access policies  
-- Usage-based reward flows — as your asset is used in AI pipelines, your iDAO receives protocol rewards  
-- Decentralized validation through Quorums, ensuring all contributions are verified, tamper-proof, and fraud-resistant  
+- **Ownership** of a dataset, model, or agent — governed directly by the individual entity who creates or contributes it.
+- A **Data Anchoring Token (DAT)** to prove provenance, define usage permissions, and enforce access policies.
+- **Usage-based reward flows** — as your asset is used in AI pipelines, your iDAO receives protocol rewards.
+- **Decentralized validation through Quorums** — ensuring all contributions are verified, tamper-proof, and fraud-resistant.
 
-In other words, iDAOs give individuals programmable ownership over the AI assets they create, control, or contribute to — and ensure those assets are trusted, rewarded, and protected.
+In other words:  
+iDAOs give individuals programmable ownership over the AI assets they create, control, or contribute to — and ensure those assets are trusted, rewarded, and protected.
 
-### iDAOs are:
+## iDAOs are:
 
-- ✅ Decentralized individuals & entities that decide what data gets used  
-- ✅ Validators of truth, ensuring that data is clean, unbiased, and reliable  
-- ✅ Gatekeepers of AI models, voting on how these models learn and improve  
-- ✅ Guardians of human-aligned AI, preventing manipulation and bias at scale  
+- ✅ Decentralized individuals & entities that decide what data gets used
+- ✅ Validators of truth, ensuring that data is clean, unbiased, and reliable
+- ✅ Gatekeepers of AI models, voting on how these models learn and improve
+- ✅ Guardians of human-aligned AI, preventing manipulation and bias at scale
 
 ## How iDAOs Work in the LazAI Ecosystem
 
-Each iDAO establishes explicit trust relationships with one or more Quorums — dedicated validator groups within the LazAI consensus layer.
+Each iDAO establishes explicit trust relationships with one or more **Quorums** — dedicated validator groups within the LazAI consensus layer.  
+These Quorums are responsible for reviewing data submissions, validating AI asset updates, and anchoring them to the blockchain.
 
-These Quorums are responsible for:
+They are economically bonded validation networks with **slashing** and **fraud detection mechanisms** to ensure the integrity of every contribution.
 
-- Reviewing data submissions  
-- Validating AI asset updates  
-- Anchoring them to the blockchain  
+### Here's how it works:
 
-They are economically bonded validation networks with slashing and fraud detection mechanisms to ensure the integrity of every contribution.
+1. You join or form an iDAO in your domain: healthcare, law, science, creative media, etc.
+2. You contribute data, AI models, or validation services via **Alith** — LazAI’s unified access layer.
+3. Your iDAO submits an update: POV Inlet, model improvements, or agent behaviors.
+4. The **Verifiable Service Coordinator (VSC)** routes the update to the trusted Quorum.
+5. The Quorum reaches consensus and anchors it to **LazChain**.
+6. Upon verification, a **Data Anchoring Token (DAT)** is minted to prove provenance.
+7. As the AI model trained on this data gains usage, your iDAO earns rewards.
 
-**Here's how it works:**
+### Incentives are Clear:
 
-1. You join or form an iDAO in your domain: healthcare, law, science, creative media, etc.  
-2. You contribute data, AI models, or validation services via **Alith** — LazAI’s unified access layer  
-3. Your iDAO submits an update: POV Inlet, model improvements, or agent behaviors  
-4. The **Verifiable Service Coordinator (VSC)** routes the update to the trusted Quorum  
-5. The Quorum reaches consensus and anchors it to LazChain  
-6. Upon verification, a **Data Anchoring Token (DAT)** is minted to prove provenance  
-7. As the AI model trained on this data gains usage, your iDAO earns rewards  
+- **Data Anchoring Token (DATs):** Proof you contributed valid data or models.
+- **LazAI utility tokens:** Governance, staking, and access to ecosystem services.
+- **AI compute credits:** Subsidized resources to build and run intelligent agents.
 
-**And the incentives are clear:**
+Because everything is validated by Quorums and transparently logged on-chain,  
+**no single actor can hijack the process**. It’s trustless, auditable, and secure.
 
-- **Data Anchoring Token (DATs)**: Proof you contributed valid data or models  
-- **LazAI utility tokens**: Governance, staking, and access to ecosystem services  
-- **AI compute credits**: Subsidized resources to build and run intelligent agents  
+## Why iDAOs Are the Future of AI Governance
 
-Because everything is validated by **Quorums** and transparently logged on-chain, **no single actor can hijack the process**.  
-It’s trustless, auditable, and secure.
+If LazAI is the **infrastructure**, iDAOs are its **soul**.
 
-## The Future of AI Governance
+With iDAOs:
 
-If **LazAI** is the infrastructure, **iDAOs are its soul**.
+- AI becomes collective intelligence, shaped by those who contribute to it.
+- A new flywheel of value emerges:
+  > Better data → Better models → Higher adoption → More rewards → More contributors → Even better data → Even more rewards
 
-With iDAOs, AI becomes collective intelligence, shaped by those who contribute to it.
+It’s a **self-reinforcing loop** where **value flows back** to the people who make AI better.
 
-**And the flywheel begins:**
+**But more importantly:**  
+iDAOs **put human intention at the center of AI**.  
+They ensure AI doesn’t just serve the few — **it serves all of us.**
 
-    Better data → Better models → Higher adoption → More rewards → More contributors → Even better data → Even more rewards
-
-It’s a self-reinforcing loop where value flows back to the people who make AI better.
-
-But more importantly:
-
-**iDAOs put human intention at the center of AI.**  
-They ensure AI doesn’t just serve the few — it serves **all of us**.
-
-### The World We’re Building: AI That Aligns With Us
+## The World We’re Building: AI That Aligns With Us
 
 We’ve lived through an era where:
 
-- AI was built behind closed doors  
-- Trained on invisible data  
+- AI was built behind closed doors
+- Trained on invisible data
 - Governed by incentives we didn’t understand
 
-This is why iDAOs matter. They are more than governance. They are the foundation of a better AI future.
+We’ve seen the cost.
 
-Welcome to LazAI. Built for all of us.
+Now we’re building something different:
 
+- Where **data is transparent, traceable, and community-owned**.
+- Where **contributors are stakeholders**, not invisible labor.
+- Where **AI is aligned with humanity**, not just optimized for capital.
+
+This is why iDAOs matter. They are more than governance. They are the **foundation of a better AI future**.
+
+To Learn More:
+
+📄 See the theoretical foundations of iDAOs in our original research paper: [LazAI iDAO Whitepaper](https://drive.google.com/file/d/13VlfmhuZlZwQrK95aBTqsfXQVqCr59TP/view)
+
+
+**Welcome to LazAI. Built for all of us.**
