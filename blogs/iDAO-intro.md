@@ -6,8 +6,8 @@ A handful of corporations own and govern the data pipelines, model training proc
 
 We as users, developers, even institutions **feed data into the machine every single day**. Yet we get nothing in return. Worse, we have no say in how that data is used, whether it's accurate, or if it aligns with our interests.
 
-In the AI ecosystem, even **DAOs fall short**.  
-That’s because traditional DAOs are designed around **organizational governance**, not **individual agency**. Their structure is optimized for voting, treasury control, and roadmap coordination — not for aligning thousands of diverse data contributors, model builders, or AI agents with varying intents and perspectives.
+In the AI ecosystem, even DAOs fall short.  
+That’s because traditional DAOs are designed around organizational governance, not individual agency. Their structure is optimized for voting, treasury control, and roadmap coordination — not for aligning thousands of diverse data contributors, model builders, or AI agents with varying intents and perspectives.
 
 ## The Problem with Traditional DAOs in the Age of AI
 
@@ -22,27 +22,27 @@ That’s because traditional DAOs are designed around **organizational governanc
 
 ## The Future of AI Demands a Different Trajectory
 
-The AI narrative has long been dominated by **large, generalized models** trained on vast internet-scale datasets.  
-While these systems are powerful, they are also **brittle and misaligned**, struggling to adapt to niche domains, specialized tasks, or the nuanced needs of individuals.
+The AI narrative has long been dominated by large, generalized models trained on vast internet-scale datasets.  
+While these systems are powerful, they are also brittle and misaligned, struggling to adapt to niche domains, specialized tasks, or the nuanced needs of individuals.
 
 This paradigm is now shifting.
 
-The next era of AI will not be defined by how *big* or *generalized* a model is. Instead, it will be defined by how **useful**, **personalized**, and **aligned** it is — how well it serves specific domains, individuals, and diverse perspectives. The focus is moving bottom-up: from building ever-larger models to building **smaller, highly specialized models** trained on **high-quality, human-aligned, domain-specific data**.
+The next era of AI will not be defined by how *big* or *generalized* a model is. Instead, it will be defined by how useful, personalized, and aligned it is — how well it serves specific domains, individuals, and diverse perspectives. The focus is moving bottom-up: from building ever-larger models to building smaller, highly specialized models trained on high-quality, human-aligned, domain-specific data.
 
-But acquiring this kind of data isn’t as simple as scraping the web. It requires **active, intentional contributions** from individuals, domain experts, and communities.
+But acquiring this kind of data isn’t as simple as scraping the web. It requires active, intentional contributions from individuals, domain experts, and communities.
 
 This led us to a simple but radical idea:
 
-> **If you want AI to serve humans, then humans — as individuals — must govern the data that AI learns from.**
+> If you want AI to serve humans, then humans — as individuals — must govern the data that AI learns from.
 
-And that is why **Individual-centric DAOs (iDAOs)** was built.
+And that is why Individual-centric DAOs (iDAOs) was built.
 
 # Introducing iDAO — The Individual-Centric DAO
 
 **iDAO** stands for **Individual-Centric DAO**, meaning the power to govern AI starts with the individual.  
 iDAO is the native social structure of the AI economy — a decentralized space where humans and AI agents co-create, co-govern, and co-monetize aligned intelligence.
 
-**iDAOs prioritize the individual**: their value, their will, their data, their models.
+iDAOs prioritize the individual: their value, their will, their data, their models.
 
 ## How does it work?
 
@@ -65,10 +65,7 @@ iDAOs give individuals programmable ownership over the AI assets they create, co
 
 ## How iDAOs Work in the LazAI Ecosystem
 
-Each iDAO establishes explicit trust relationships with one or more **Quorums** — dedicated validator groups within the LazAI consensus layer.  
-These Quorums are responsible for reviewing data submissions, validating AI asset updates, and anchoring them to the blockchain.
-
-They are economically bonded validation networks with **slashing** and **fraud detection mechanisms** to ensure the integrity of every contribution.
+Each iDAO establishes explicit trust relationships with one or more "Quorums" — dedicated validator groups within the LazAI consensus layer. These Quorums are responsible for reviewing data submissions, validating AI asset updates, and anchoring them to the blockchain. They are economically bonded validation networks with "slashing" and "fraud detection mechanisms" to ensure the integrity of every contribution.
 
 ### Here's how it works:
 
@@ -103,19 +100,7 @@ It’s a **self-reinforcing loop** where **value flows back** to the people who 
 
 **But more importantly:**  
 iDAOs **put human intention at the center of AI**.  
-They ensure AI doesn’t just serve the few — **it serves all of us.**
-
-## The World We’re Building: AI That Aligns With Us
-
-We’ve lived through an era where:
-
-- AI was built behind closed doors
-- Trained on invisible data
-- Governed by incentives we didn’t understand
-
-We’ve seen the cost.
-
-Now we’re building something different:
+They ensure AI doesn’t just serve the few — it serves all of us
 
 - Where **data is transparent, traceable, and community-owned**.
 - Where **contributors are stakeholders**, not invisible labor.
