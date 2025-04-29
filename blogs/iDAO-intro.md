@@ -79,9 +79,9 @@ Each iDAO establishes explicit trust relationships with one or more "Quorums" â€
 
 ### Incentives are Clear:
 
-- **Data Anchoring Token (DATs):** Proof you contributed valid data or models.
-- **LazAI utility tokens:** Governance, staking, and access to ecosystem services.
-- **AI compute credits:** Subsidized resources to build and run intelligent agents.
+- **Data Anchoring Token (DATs):** AI asset token (dataset, model, agent). Encodes ownership, usage permissions, and revenue rights.  
+- **LazAI Utility Tokens:** Network Utility Token, secures consensus and enables restaking.
+- **Computing Power Tokens:** The payment for computing power supports Metis and other tokens.
 
 Because everything is validated by Quorums and transparently logged on-chain,  
 **no single actor can hijack the process**. Itâ€™s trustless, auditable, and secure.
