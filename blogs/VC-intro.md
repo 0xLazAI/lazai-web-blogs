@@ -32,7 +32,9 @@ This framework underpins LazAI’s commitment to transparent and secure AI execu
 VC’s design is layered (TEE-first, ZK-optional, OP-compatible). In practice, it offers three modes:
 
 - **TEE Mode (Default):** Computation happens inside a Trusted Execution Environment (TEE) – it’s like running code in a sealed vault – generating an attestation that the code ran untampered​. This is the default workhorse for most inference tasks.
+
 - **TEE + ZK Mode:** On top of the enclave, the node generates a zero-knowledge proof of correctness (like proving you solved a puzzle without revealing the solution)​​. This proves the AI followed the agreed logic without revealing sensitive inputs or outputs.
+
 - **Optimistic (OP) Mode:** If TEEs aren’t used, the result and a hash of the execution trace are posted on-chain (optimistically), like putting the answer on a public board​. Others have a short window to dispute it by submitting a fraud proof​.
 
 Together these modes cover all cases: fast secure compute by default, with optional privacy and arbitration when needed.
@@ -40,10 +42,15 @@ Together these modes cover all cases: fast secure compute by default, with optio
 ## Core Components of Verified Computing
 LazAI’s framework is a modular, hybrid trust system combining community governance, hardware security, and cryptographic technology. Core components include: 
 - **Individual-Centric DAO (iDAO):** Each iDAO is a mini-DAO that owns a dataset and AI model. It governs how tasks are run on its data and how rewards are shared.
+
 - **TEE Worker Node:** A compute server with a hardware enclave. When it runs an iDAO’s task, it loads the data and model in isolation and produces a result hash, a signature, and an attestation report – a stamped certificate proving the code ran in a secure enclave​​.
+
 - **Verifiable Service Coordinator (VSC):** Off-chain middleware that orchestrates the tasks. The iDAO submits a job (data reference, model ID, mode) to the VSC​. The VSC assigns it to a TEE node, then acts as the conductor collecting their results. When the node finishes, the VSC collects the signed result, attestation, and any ZK proof or trace, and packages them together​.
+
 - **Verifier Contract:** An on-chain smart contract that receives the proof package. It checks the TEE signature and any ZK proof​​. If everything matches, it marks the task as verified on-chain. In OP mode, it instead records the result and opens a dispute window.
+
 - **Challenger System (OP Mode):** In optimistic mode, elected challengers watch results. If a challenger finds a discrepancy, it submits a fraud proof, triggering slashing of the bad actor​.
+
 - **Execution Record & Settlement:** Once verified, the result is logged on-chain​. The Settlement logic then issues rewards or penalties: for example, boosting the iDAO’s DAT value and distributing tokens​.
 
 This hybrid architecture means multiple layers of trust.  The TEE provides hardware-enforced security, while optional cryptographic proofs (ZK or OP) add public auditability, data is anchored (via Merkle roots), Importantly, the entire process is governed by the iDAOs and their quorum. In essence, Verified Computing turns each AI query into a verifiable transaction, where all inputs, models, and outputs are provably linked.
@@ -54,9 +61,13 @@ This hybrid architecture means multiple layers of trust.  The TEE provides hardw
 A simplified VC task flow looks like this:
 
 - **Task Submission:** The iDAO submits a job (dataset pointer, model ID, mode) to the VSC​.
+
 - **Secure Compute:** The assigned TEE node loads the data and model in its enclave and runs the AI. It produces a result hash, signs it, and generates an attestation report​. (In ZK mode it also creates a zk-proof; in OP mode it records a trace hash.)
+
 - **Proof Packaging:** The TEE node sends its signed output and proofs to the VSC. The VSC packages the result, signature, attestations, and any ZK proof or trace together​.
+
 - **On-Chain Verification:** The VSC submits this package to the Verifier Contract on LazChain. The contract checks the enclave signature (and verifies the SNARK if present)​. If valid, it records the output hash and marks the task verified.
+
 - **Settlement:** Finally, the verified task is logged (task ID, output hash) and the Settlement Contract issues rewards or penalties​. The iDAO’s DAT value may increase, and contributors receive their share automatically.
 
 Together, these stages create a closed loop where every AI inference is witnessed and verified. Now anyone can query and see: 
