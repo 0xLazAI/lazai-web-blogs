@@ -37,7 +37,7 @@
       "title": "Verified Computing Framework: Building Trust in Decentralized AI",
       "desc": "This framework underpins LazAI’s commitment to transparent and secure AI execution. It ensures that every inference, training update, or agent behavior is validated, anchored on-chain, and challenged if misused.",
       "tag": "Explainer",
-      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/Verified Computing.png",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/VC.png",
       "time": "2025/05/1 15:00",
       "link": "VC-intro.md"
     }
