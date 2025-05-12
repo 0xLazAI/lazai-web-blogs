@@ -40,6 +40,14 @@
       "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/VC.png",
       "time": "2025/05/1 15:00",
       "link": "VC-intro.md"
+    },
+    {
+      "title": "Introducing the Corrupted Alith Mini App: Meme-Engineered Chaos, Now Interactive",
+      "desc": "The world’s most misaligned AI is now live in its own Telegram-powered Mini App. A hilariously broken, satirically sharp AI agent born out of everything that could go wrong in AI development",
+      "tag": "Introduction",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/C_Alith.png",
+      "time": "2025/05/12 15:00",
+      "link": "CAlith.md"
     }
   ]
 }
