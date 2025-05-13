@@ -48,6 +48,14 @@
       "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/C_Alith.png",
       "time": "2025/05/12 15:00",
       "link": "CAlith.md"
+    }, 
+    {
+      "title": "Defining New Primitives in an AI-Native Economy",
+      "desc": "Explore how LazAI is defining new AI primitives, establishing a self-reinforcing incentive structure, and driving sustainable network effects for human-aligned data and AI models.",
+      "tag": "Explainer",
+      "banner": "https://raw.githubusercontent.com/0xLazAI/lazai-web-blogs/main/banner/beyond-TVL.png",
+      "time": "2025/05/13 15:00",
+      "link": "beyond-TVL.md"
     }
   ]
 }
